@@ -1,12 +1,10 @@
 // Project Euler - Problem 1
 // Find Multiples of 3 and 5
 // Programmed by: Michael Arnold
-
 #include "stdafx.h"
 #include <iostream>
 
 using namespace std;
-
 int main()
 {
 	int answer = 0;
@@ -17,7 +15,7 @@ int main()
 			answer += x; // Add number to total sum (Also written as "answer = answer + x;")
 		}
 	}
-
+	
 	cout << "The sum of all multiples of 3 and 5 is " << answer << ".\n\n";
 
 	char z;    // Used to require user input before closing application
