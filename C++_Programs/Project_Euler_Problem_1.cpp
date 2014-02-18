@@ -1,6 +1,6 @@
 // Project Euler - Problem 1
 // Find Multiples of 3 and 5
-// Programmed by: Michael Arnold
+
 #include "stdafx.h"
 #include <iostream>
 
