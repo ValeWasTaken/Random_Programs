@@ -4,7 +4,6 @@
 #include "stdafx.h" // For users running in Microsoft Visual Studio 2013
 #include <iostream>
 
-using namespace std;
 int main()
 {
 	int answer = 0;
@@ -16,10 +15,10 @@ int main()
 		}
 	}
 	
-	cout << "The sum of all multiples of 3 and 5 is " << answer << ".\n\n";
+	std::cout << "The sum of all multiples of 3 and 5 is " << answer << ".\n\n";
 
 	char z;    // Used to require user input before closing application
-	cin >> z;  // .. Thus preventing the application to be closed before the answer can be seen.
+	std::cin >> z;  // .. Thus preventing the application to be closed before the answer can be seen.
 	return 0;  
 }
 
