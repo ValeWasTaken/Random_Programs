@@ -1,7 +1,7 @@
 // Project Euler - Problem 1
 // Find Multiples of 3 and 5
 
-#include "stdafx.h"
+#include "stdafx.h" // For users running in Microsoft Visual Studio 2013
 #include <iostream>
 
 using namespace std;
