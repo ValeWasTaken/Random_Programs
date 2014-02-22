@@ -3,7 +3,7 @@
 
 #include "stdafx.h" // For users running in Microsoft Visual Studio 2013
 #include <iostream>
-
+		// NOTE: You could add "using namespace std;" here to replace the "std::"s in the program.
 int main()
 {
 	int answer = 0;
