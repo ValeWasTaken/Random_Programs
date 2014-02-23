@@ -13,7 +13,7 @@ int main() {
 	for (int a = 3; a < max_prime; a++) // a starts at 3 because the numbers 1 and 2 are by default prime numbers.
 	{      
 		x = 0;    //a variable to check if a number is prime. If it gets set to 1 the number is not prime.
-		for (int b = 2; b < a; b++)   //this loop divides the number by 2 up to itself and if the remainder is 0 sets x = 1.
+		for (int b = 2; b < a; b++)
 		{        
 			if (a%b == 0) 
 			{
@@ -21,12 +21,12 @@ int main() {
 				break;
 			}
 		}
-		if (x == 0)    //if the x = 1 flag is never set the number is prime.
+		if (x == 0)
 		{        
 			std::cout << a << " is a prime number.\n";
 		}
 	}
-	char k;			// These two lines are in place so that when the program is finished
+	char k;		// These two lines are in place so that when the program is finished
 	std::cin >> k; // the user must press a key or close the console before the program finishes. (So that the user can read the output)
 	return 0;
 }
