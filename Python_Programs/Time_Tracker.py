@@ -1,5 +1,4 @@
 # This program is a timer to see how long a program takes to finish executing.
-
 import time
 
 def main():
