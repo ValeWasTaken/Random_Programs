@@ -26,7 +26,6 @@ int main() {
 			std::cout << a << " is a prime number.\n";
 		}
 	}
-	char k;		// These two lines are in place so that when the program is finished
-	std::cin >> k; // the user must press a key or close the console before the program finishes. (So that the user can read the output)
+	system("pause");
 	return 0;
 }
