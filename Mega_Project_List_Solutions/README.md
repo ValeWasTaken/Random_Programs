@@ -4,6 +4,6 @@ List of projects completed and uploaded to this folder:
 
 
 <h2>CATEGORY -- Numbers:</h2>
-- Tax Calculator (Completed in C++)
+- Tax Calculator (Completed in C++ & Python)
 - Fibonacci Sequence (Completed in C++ & Python)
 - Reverse String (Completed in Python)
