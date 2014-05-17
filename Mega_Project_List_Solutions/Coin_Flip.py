@@ -7,12 +7,12 @@ def main():
     while(count < flips):
         result = random.randint(0,1)
         if (result == 0):
-            heads = heads + 1
+            heads += 1
         elif (result == 1):
-            tails = tails + 1
+            tails += 1
         else:
             print("Program error.")
-        count = count + 1
+        count += 1
     print("Times landed on heads: " + str(heads))
     print("Times landed on tails: " + str(tails))
 
