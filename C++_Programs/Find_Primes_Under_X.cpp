@@ -1,31 +1,33 @@
-// Thing program lets a user enter a number and then takes the user's number and
-// checks for all prime numbers that are less than that number.
+// Program that lets a user enter a number and then takes the user's number and
+// prints all prime numbers that are less than that number.
 
-#include "stdafx.h"
 #include <iostream>
-		// Note: You could add "using namespace std;" here and delete all "std::"s from the program if desired.
+
 int main() {
-	int max_prime, x;
-	std::cout << "Please enter the highest number you wish to find prime numbers under? ";
+	int max_prime = 0;
+	std::cout << "Enter an integer, all primes less than this number will be printed: ";
 	std::cin >> max_prime;
 
-	//This for loop goes through each number checking for prime numbers until it hits max_prime entered by the user.
+	if (max_prime <= 1) { return 0; }
+	if (max_prime >= 3) { std::cout << "2" << std::endl; }
+
+	// naive primality test
 	for (int a = 3; a < max_prime; a++) // a starts at 3 because the numbers 1 and 2 are by default prime numbers.
-	{      
-		x = 0;    //a variable to check if a number is prime. If it gets set to 1 the number is not prime.
+	{
+		bool is_prime = true;
 		for (int b = 2; b < a; b++)
-		{        
-			if (a%b == 0) 
+		{
+			if (a % b == 0)
 			{
-				x = 1;
+				is_prime = false;
 				break;
 			}
 		}
-		if (x == 0)
-		{        
-			std::cout << a << " is a prime number.\n";
+		if (is_prime)
+		{
+			std::cout << a << std::endl;
 		}
 	}
-	system("pause");
+	
 	return 0;
 }
