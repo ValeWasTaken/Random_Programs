@@ -7,3 +7,4 @@ List of projects completed and uploaded to this folder:
 - Tax Calculator (Completed in C++ & Python)
 - Fibonacci Sequence (Completed in C++ & Python)
 - Reverse String (Completed in Python)
+- Coin Flip Simulation (Completed in Python)
