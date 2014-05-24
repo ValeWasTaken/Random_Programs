@@ -5,18 +5,20 @@ A collection of random programs I've made in various languages that weren't wort
 or have not been already made into a repository.
 
 
-Core contents:   -- Note: Most folders have not been added or are currently empty. --
+Core contents:   -- Note: Many --
 
-* C Programs
-* C# Programs
+
 * C++ Programs
 * Python Programs
-* Java Programs
-* Batch scripts
-* Powershell scripts
-* Shell scripts
-* Misc. Programs
-* Web Dev files
+* Mega_Project_List_Solutions
+* C Programs [To be added lated]
+* C# Programs [To be added lated]
+* Java Programs [To be added lated]
+* Batch scripts [To be added lated]
+* Powershell scripts [To be added lated]
+* Shell scripts [To be added lated]
+* Misc. Programs [To be added lated]
+* Web Dev files [To be added lated]
      - Projects
      - HTML + CSS files
      - PHP files
