@@ -5,7 +5,7 @@ A collection of random programs I've made in various languages that weren't wort
 or have not been already made into a repository.
 
 
-Core contents:   -- Note: Many --
+<strong>Core contents:</strong>
 
 
 * C++ Programs
