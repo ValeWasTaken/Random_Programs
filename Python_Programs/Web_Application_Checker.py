@@ -1,7 +1,3 @@
-# I made this program to check my Hacker School application for updates every 15 minutes.
-# I'd be lying if I said I did so for any other reason than because I could, it seemed fun,
-# and so I could no longer justify spamming 'F5' a thousand times a day hoping for an update, haha.
-
 import urllib
 from bs4 import BeautifulSoup
 import time
