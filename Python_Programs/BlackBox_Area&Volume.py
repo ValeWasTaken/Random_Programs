@@ -18,7 +18,7 @@ def menu():
     print("3 )" + str(F3))
     print("4 )" + str(F4))
     print("5 )" + str(F5))
-    menu_Choice = input("6 ) Exit.\n\n")
+    menu_Choice = raw_input("6 ) Exit.\n\n")
 
     if menu_Choice == 1:
         A_Ellipse()
