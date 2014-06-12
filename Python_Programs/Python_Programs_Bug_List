@@ -9,15 +9,12 @@ Bug ##:
 - Proposed solution: Hire an exorcist to pure evil code demons
 
 
-Current bug list:
+Current bug list: N/A
+
+Fixed bug list:
 
 Bug #1: 
 - File: BlackBox_Area&Volume.py
 - Line(s): 38
 - Bug: In Python IDLE strings entered result in errors instead of going to the else statement.
-- Proposed solution: Fix by adding an additional elif statement
-
-
-Fixed bug list:
-
-- To be added. 
+- Solution: I changed input to raw_input to handle invalid answers given at the main menu.
