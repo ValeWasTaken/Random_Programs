@@ -5,7 +5,7 @@ def main():
     i = len(original_string) - 1
     while(i >= 0):
         reversed_string += original_string[i]
-        i = i - 1
+        i -= 1
 
     print(reversed_string)
 main()
