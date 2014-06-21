@@ -11,14 +11,13 @@ or have not been already made into a repository.
 * C++ Programs
 * Python Programs
 * Shell scripts 
+* MatLab
 * Mega_Project_List_Solutions
-* C Programs [To be added lated]
-* C# Programs [To be added lated]
-* Java Programs [To be added lated]
-* Batch scripts [To be added lated]
-* Powershell scripts [To be added lated]
-* Misc. Programs [Ex: MatLab]
-* Web Dev files [To be added lated]
+* Batch scripts [To be added later]
+* C Programs [To be added later]
+* C# Programs [To be added later]
+* Powershell scripts [To be added later]
+* Web Dev files [To be added later]
      - Projects
      - HTML + CSS files
      - PHP files
