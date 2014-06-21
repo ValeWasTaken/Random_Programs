@@ -8,11 +8,11 @@ or have not been already made into a repository.
 <strong>Core contents:</strong>
 
 
-* C++ Programs
-* Python Programs
-* Shell scripts 
+* C++_Programs
 * MatLab
 * Mega_Project_List_Solutions
+* Python_Programs
+* Shell Scripts
 * Batch scripts [To be added later]
 * C Programs [To be added later]
 * C# Programs [To be added later]
