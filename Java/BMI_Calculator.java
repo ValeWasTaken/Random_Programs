@@ -29,28 +29,17 @@ public class BMI_Calculator
 		
 		String classify = "Your BMI classisfies you as ";
 		
-		if(BMI < 16.0)
-		{
+		if(BMI < 16.0) {
 			System.out.println(classify + "severly underweight. Please seek help.");
-		}
-		else if(BMI > 16.0 && BMI < 18.5)
-		{
+		} else if(BMI > 16.0 && BMI < 18.5) {
 			System.out.println(classify + "underweight. You may want to seek help.");
-		}
-		else if(BMI > 18.5 && BMI < 24.9)
-		{
+		} else if(BMI > 18.5 && BMI < 24.9) {
 			System.out.println(classify + "normal weight. Keep up the healthy weight!");
-		}
-		else if(BMI > 24.9 && BMI < 29.9)
-		{
+		} else if(BMI > 24.9 && BMI < 29.9) {
 			System.out.println(classify + "overweight. You may want to seek help.");
-		}
-		else if(BMI > 30)
-		{
+		} else if(BMI > 30) {
 			System.out.println(classify + "obese. Please seek help.");
-		}
-		else
-		{
+		} else {
 			System.out.println("System error. Please restart the program and try again.");
 		}
 	}
