@@ -9,8 +9,6 @@ def teamScores():
         htmltext = htmlfile.read()
         soup = BeautifulSoup(htmltext)
 
-        # This part is basically saying look into the div with the team's title and then
-        # from there find the score of said team and display only its contents (no HTML)
         blueScore = soup.findAll('div', {'title':'Blue Team'})[0].findAll('span', {'class':'score_value'})[0].contents[0]
         greenScore = soup.findAll('div', {'title':'Green Team'})[0].findAll('span', {'class':'score_value'})[0].contents[0]
         redScore = soup.findAll('div', {'title':'Red Team'})[0].findAll('span', {'class':'score_value'})[0].contents[0]
