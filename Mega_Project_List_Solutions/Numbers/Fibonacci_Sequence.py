@@ -7,7 +7,7 @@ def main():
 
     fib_num = input("Enter the place of the fibonacci number you want to find: ")
     while (count != fib_num):
-        count = count + 1
+        count += 1
         c = a + b
         print(c) # Remove this line to see only the final number.
         a = b
