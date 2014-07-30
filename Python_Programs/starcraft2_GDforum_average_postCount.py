@@ -1,10 +1,7 @@
 import urllib
 from bs4 import BeautifulSoup
-import time
-import os
 
 # Finds the average amount of replies (per thread) on the first page of the Starcraft II General Discussion Forums.
-
 def readLog():
         url = 'http://us.battle.net/sc2/en/forum/40568/'
         htmlfile = urllib.urlopen(url)
