@@ -11,7 +11,6 @@ int main() {
 	if (max_prime <= 1) { return 0; }
 	if (max_prime >= 3) { std::cout << "2" << std::endl; }
 
-	// naive primality test
 	for (int a = 3; a < max_prime; a++) // a starts at 3 because the numbers 1 and 2 are by default prime numbers.
 	{
 		bool is_prime = true;
@@ -24,10 +23,6 @@ int main() {
 			}
 		}
 		if (is_prime)
-		{
-			std::cout << a << std::endl;
-		}
-	}
-	
-	return 0;
+		{std::cout << a << std::endl;}
+	} return 0;
 }
