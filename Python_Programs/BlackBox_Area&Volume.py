@@ -35,7 +35,7 @@ def menu():
     while menu_Choice not in [str(i) for i in range(1,7)]: #Executes if input = any number not listed.
         print("Invalid input. Please try again.\n")
         menu()
-    else: # BUG: In Python IDLE strings entered result in errors instead of going to the else statement.
+    else:
         print("Error: Please enter a number as shown and try again.")
         print(('-' * 60) + "\n\n") #Prints 60 "-"s
         menu()
