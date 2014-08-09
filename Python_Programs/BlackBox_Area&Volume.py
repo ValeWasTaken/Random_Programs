@@ -93,7 +93,4 @@ def V_Sphere():
     print "\nYour answer is " + str(VoS)
     Restart()
     
-def main():
-    menu()
-    
-main()
+menu()
