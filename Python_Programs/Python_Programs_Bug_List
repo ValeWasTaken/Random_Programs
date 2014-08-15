@@ -9,12 +9,5 @@ Bug ##:
 - Proposed solution: Hire an exorcist to pure evil code demons
 
 
-Current bug list: N/A
-
-Fixed bug list:
-
-Bug #1: 
-- File: BlackBox_Area&Volume.py
-- Line(s): 38
-- Bug: In Python IDLE strings entered result in errors instead of going to the else statement.
-- Solution: I changed input to raw_input to handle invalid answers given at the main menu.
+<strong>Current bug list: </strong>
+- N/A
