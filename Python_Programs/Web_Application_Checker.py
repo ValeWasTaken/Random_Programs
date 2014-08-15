@@ -6,9 +6,8 @@ status = ''
 
 def appScrape():
         url = 'https://www.hackerschool.com/applications/status?token=InsertYourTokenHere'
-        htmlfile = urllib.urlopen(url)
-        htmltext = htmlfile.read()
-        soup = BeautifulSoup(htmltext)
+        html = urllib.urlopen(url).read()
+        soup = BeautifulSoup(html)
 
         ans = soup.find('p')
         # ('div', {'id':'application-status-detail'}) could be used instead of 'p'
