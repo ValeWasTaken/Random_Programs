@@ -5,9 +5,8 @@ import os
 
 def teamScores():
         url = 'http://store.steampowered.com/promotion/summer2014faq/'
-        htmlfile = urllib.urlopen(url)
-        htmltext = htmlfile.read()
-        soup = BeautifulSoup(htmltext)
+        html = urllib.urlopen(url).read()
+        soup = BeautifulSoup(html)
 
         blueScore = soup.findAll('div', {'title':'Blue Team'})[0].findAll('span', {'class':'score_value'})[0].contents[0]
         greenScore = soup.findAll('div', {'title':'Green Team'})[0].findAll('span', {'class':'score_value'})[0].contents[0]
