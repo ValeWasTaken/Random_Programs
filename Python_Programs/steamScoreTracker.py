@@ -1,3 +1,5 @@
+# Note: This program no longer works due to the 2014 Steam Summer Sale being finished.
+
 import urllib
 from bs4 import BeautifulSoup
 import time
