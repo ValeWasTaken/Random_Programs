@@ -1,16 +1,10 @@
 # Python RNG test
-# Note to self: Program needs a lot of optimization, please fix soon.
-
 import random
-def RNGtest():
-    testNum = 0
-    testRuns = 10000000.0
-    fullList = []
     
-    while testNum < testRuns:
-        randomNum = random.randint(0,9)
-        fullList += [randomNum]   
-        testNum += 1
+def RNGtest():
+    testNum, testRuns = 0, 100000
+    fullList = [random.randint(0,9) for x in range(testRuns)]
+    testRuns *= 1.0
 
     zero,one,two,three,four,five,six,seven,eight,nine = 0,0,0,0,0,0,0,0,0,0
 
