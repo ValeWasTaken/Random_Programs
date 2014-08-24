@@ -4,7 +4,7 @@ public class beerSong {
 		int beerNum = 99;
 		String word = "bottles";
 		
-		while (beerNum > 0)
+		while (beerNum > 0) 
 		{
 			if(beerNum == 1)
 			{word = "bottle";} // Change wording if last bottle.
@@ -15,11 +15,7 @@ public class beerSong {
 			System.out.println("Pass it around");
 			beerNum--;
 		}
-		if(beerNum == 0)
-		{
-			System.out.println("No more bottles of beer on the wall");
-		}
-		else 
-		{System.out.println("Error.");}
+		if(beerNum == 0) {System.out.println("No more bottles of beer on the wall");}
+		else {System.out.println("Error.");}
 	}
 }
