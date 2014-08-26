@@ -39,3 +39,69 @@ while index < len(my_list):
 my_list = ['Larry', 'Moe', 'Curly']
 for element in my_list:
     print(element)
+
+
+
+# Example 4: Use else to execute code after a for loop concludes
+# -- Harmful --
+for user in get_all_users():
+    has_malformed_email_address = False
+    print('Checking {}'.format(user))
+    
+for email_address in user.get_all_email_addresses():
+    if email_is_malformed(email_address):
+        has_malformed_email_address = True
+        print('Has a malformed email address!')
+        break
+    if not has_malformed_email_address:
+        print('All email addresses are valid!')
+
+# -- Idiomatic --
+for user in get_all_users():
+    has_malformed_email_address = False
+    print('Checking {}'.format(user))
+    
+for email_address in user.get_all_email_addresses():
+    if email_is_malformed(email_address):
+        has_malformed_email_address = True
+        print('Has a malformed email address!')
+        break
+    else:
+        print('All email addresses are valid!')
+        
+        
+        
+# Example 5: Avoid using a mutable object as the default value for a function argument
+# -- Harmful --
+def f(a, L=[]):
+    L.append(a)
+    return L
+
+print(f(1)) # [1]
+print(f(2)) # [1, 2]
+print(f(3)) # [1, 2, 3]
+
+# -- Idiomatic --
+def f(a, L=None):
+    if L is None:
+        L = []
+    L.append(a)
+    return L
+
+print(f(1)) # [1]
+print(f(2)) # [2]
+print(f(3)) # [3]
+
+
+
+# Example 6: Use return to evaluate expressions in addition to return values
+# -- Harmful --
+def all_equal(a, b, c):
+    result = False
+    if a == b == c:
+        result = True
+    return result
+
+# -- Idiotmatic --
+def all_equal(a, b, c):
+    return a == b == c # If a == b == c isn't true it will return False
