@@ -213,3 +213,15 @@ def get_formatted_user_info(user):
     # directly, but the string itself is too long to fit on the page.
     output = 'Name: {user.name}, Age: {user.age}, Sex: {user.sex}'.format(user=user)
     return output
+
+
+
+# Example 11: Make use of negative indexes.
+# -- Harmful --
+def get_suffix(word):
+    word_length = len(word)
+    return word[word_length - 2:]
+
+# -- Idiotmatic --
+def get_suffix(word):
+    return word[-2:]
