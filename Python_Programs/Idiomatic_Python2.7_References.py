@@ -225,3 +225,24 @@ def get_suffix(word):
 # -- Idiotmatic --
 def get_suffix(word):
     return word[-2:]
+
+
+
+# Example 12: Prefer xrange to range unless you need the resulting list
+# (xrange doesn't store the entire list in memory)
+
+# -- Harmful --
+# A loop over a large range that breaks out
+# early: a double whammy!
+even_number = int()
+for index in range (1000000):
+    if index % 2 == 0:
+        even_number = index
+        break
+
+# -- Idiotmatic --
+even_number = int()
+for index in xrange(1000000):
+    if index % 2 == 0:
+        even_number = index
+        break
