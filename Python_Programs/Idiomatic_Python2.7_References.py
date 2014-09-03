@@ -268,3 +268,27 @@ def is_prime(number):
                 if number % candidate == 0:
                         return False
         return number > 0
+
+
+
+#Example 15: Prefer absolute imports to relative imports
+# -- Harmful --
+# Assuming my location is package.sub_package.module
+# and I want to import package.other_module
+from ...package import other_module # <-- bad
+
+# -- Idiomatic --
+import package.other_module 
+#or..
+import package.other_module as other
+
+
+
+#Example 16: Do not use from foo import * to import the contents of a module.
+# -- Harmfull --
+from foo import *
+
+# -- Idiomatic --
+from foo import (bar, baz, qux, quux, quuux)
+#or even better..
+import foo
