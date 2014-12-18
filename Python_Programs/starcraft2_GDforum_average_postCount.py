@@ -4,8 +4,7 @@ from bs4 import BeautifulSoup
 # Finds the average amount of replies (per thread) on the first page of the Starcraft II General Discussion Forums.
 def readLog():
         url = 'http://us.battle.net/sc2/en/forum/40568/'
-        html = urllib.urlopen(url).read()
-        soup = BeautifulSoup(html)
+        soup = BeautifulSoup(urllib.urlopen(url).read())
 
         sumOfReplies = 0
         thread = 0
