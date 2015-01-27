@@ -10,6 +10,15 @@ def invalid():
     print("\nInvalid input. Proceeding to main menu.\n")
     menu()
 
+def Restart():
+    toMenu = raw_input("\nTo go back to main menu, type '1'. To exit, type '2'.\n\n")
+    if toMenu == '1':
+        menu()
+    elif toMenu == '2':
+        exit()
+    else:
+        invalid()
+
 def menu():
     print("- - - - - - - -- PROGRAM  MENU -- - - - - - - -")
     print("Please choose a desired formula to solve with: \n")
@@ -35,15 +44,6 @@ def menu():
     else:
         invalid()
     Restart()
-
-def Restart():
-    toMenu = raw_input("\nTo go back to main menu, type '1'. To exit, type '2'.\n\n").upper()
-    if toMenu == '1':
-        menu()
-    elif toMenu == '2':
-        exit()
-    else:
-        invalid()
     
 def A_Ellipse():
     print("\nSolving for:" + str(F1))
