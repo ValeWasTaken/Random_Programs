@@ -7,11 +7,9 @@ def readLog():
         soup = BeautifulSoup(urllib.urlopen(url).read())
 
         sumOfReplies = 0
-        thread = 0
-        while(thread < 43):
+        for thread in range(43):
                 replyCount = soup.findAll('td', {'class':'reply-cell'})[thread].contents[0]
-                thread += 1
                 sumOfReplies += int(replyCount)
-        replyAverage = (int(sumOfReplies) / 44.00) # Delete '.00' to get a whole number.
+        replyAverage = (int(sumOfReplies) / 44.00)
         print("The average reply count is: %s" % replyAverage)
 readLog()
