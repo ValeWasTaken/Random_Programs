@@ -24,5 +24,4 @@ def main():
                 track()
                 time.sleep(3600) # 1 hour
 main()
-
 # Screenshot of running program: https://i.imgur.com/AHiLyNw.png
