@@ -1,0 +1,2 @@
+1|Alice|+385|gold
+2|Bob|-9400|ISK
