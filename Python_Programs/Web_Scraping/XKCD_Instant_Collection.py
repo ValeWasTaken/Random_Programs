@@ -12,10 +12,6 @@ def scrapeXKCD():
     newestComicData = re.compile(r'Permanent link to this comic: http://xkcd.com/(\d+)/')
     newestComicNumber = int(newestComicData.search(website).group(1))
 
-    soup = BeautifulSoup(urllib.urlopen('http://xkcd.com/700/').read())
-    title = soup.find("div", id="comic").img['alt']
-    image = soup.find("div", id="comic").img['src']
-
     for comic in range(1,newestComicNumber+1):
         if comic == 404:
             pass # 404 returns a 404 error. (Very funny, XKCD. Very funny.)
