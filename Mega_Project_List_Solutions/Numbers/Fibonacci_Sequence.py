@@ -1,11 +1,8 @@
-def main():
-    a,b,c,fib_num,count = 0,1,0,0,0
-    fib_num = input("Enter the place of the fibonacci number you want to find: ")
-    while (count != fib_num):
-        count += 1
-        c = a + b
-        print(c) # Remove this line to see only the final number.
-        a = b
-        b = c
-    print("Your requested sequence place, %d, in the Fiboacci Sequence is: %s" % (fib_num,c))
-main()
+a,b,c = 0,1,0
+place = int(input("Enter the place of the Fibonacci number you want to find: "))
+for x in range(place):
+    #print(a) -- Current Fibonacci number.
+    c = a
+    a += b
+    b = c
+print("Your request sequence place, {0}, in the Fibonacci Sequence is: {1}").format(place,c)
