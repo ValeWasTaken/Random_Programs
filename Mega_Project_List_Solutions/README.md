@@ -12,3 +12,4 @@ List of projects completed and uploaded to this folder:
 <h2>CATEGORY -- Text:</h2>
 - Reverse String [Completed in Python]
 - Fizz Buzz [Completed in Python]
+- Palindrome Checker [Complete in Python]
