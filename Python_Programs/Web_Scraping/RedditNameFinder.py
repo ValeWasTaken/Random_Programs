@@ -1,6 +1,6 @@
 # Searches Reddit for the shortest available names
 
-rom string import digits, ascii_lowercase
+from string import digits, ascii_lowercase
 from itertools import product
 import praw
 import time
