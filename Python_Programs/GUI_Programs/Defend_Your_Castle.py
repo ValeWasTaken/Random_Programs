@@ -12,12 +12,12 @@ I wouldn't pay too much attention to it.
 import pyautogui
 
 for game in range(100):
-    for a in range(15):
+    for x in range(15):
         person_height = 750 
         drop_height = 320
         width = 1050
 
-        for c in range(14):
+        for y in range(14):
             pyautogui.moveTo(width, height, duration=0.1)
             defender_width -= 5
             defender_height -= 5
