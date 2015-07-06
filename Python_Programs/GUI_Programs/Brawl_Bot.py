@@ -1,5 +1,7 @@
 # Hearthstone Brawl Bot V1.0
 # Plays Hearthstone's "Tavern Brawl" mode for gold.
+# !! Important !! This bot was only made for Blizzard's first Tavern Brawl.
+#                  Any brawl other than the original will likely not work.
 # Python 2.7
 
 import pyautogui
