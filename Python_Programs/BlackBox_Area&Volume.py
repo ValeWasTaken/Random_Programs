@@ -50,32 +50,32 @@ def A_Ellipse():
     R1 = input("\nPlease enter first radius: ")
     R2 = input("Please enter second radius: ")
     AoE = pi * int(R1) * int(R2) # AoE stands for - Area of Ellipse
-    print "Your answer is: " + str(AoE)
+    print("Your answer is: " + str(AoE))
     
 def A_Triangle():
     print("\nSolving for:" + str(F2))
     Tbase = input("Please enter the base of the triangle: ")
     Theight = input("Please enter the height of the triangle: ")
     AoT = 0.5 * int(Tbase) * int(Theight) # AoT stands for - Area of Triangle
-    print "Your answer is: " + str(AoT)
+    print("Your answer is: " + str(AoT))
     
 def A_EQ_Triangle():
     print("\nSolving for:" + str(F3))
     SideLength = input("Please enter the side length of the equilateral triangle: ")
     AoEQT = sqrt(3) / 4 * pow(SideLength,2) # AoEQT stands for - Area of Equilateral Triangle
-    print "\nYour answer is " + str(AoEQT)
+    print("\nYour answer is " + str(AoEQT))
     
 def V_Cone():
     print("\nSolving for:" + str(F4))
     C_height = input("Please enter the height of the cone: ")
     C_Radius = input("Please enter the radius of the cone: ")
     VoC = pow(C_Radius,2) * pi * int(C_height) * 1 / 3 # VoC stands for - Volume of Cone
-    print "\nYour answer is " + str(VoC)
+    print("\nYour answer is " + str(VoC))
     
 def V_Sphere():
     print("\nSolving for:" + str(F5))
     S_Radius = input("Please enter the radius of the sphere: ")
     VoS = pi * pow(S_Radius,3) * 4 / 3 # VoS stands for - Volume of Sphere
-    print "\nYour answer is " + str(VoS)
+    print("\nYour answer is " + str(VoS))
     
 menu()
