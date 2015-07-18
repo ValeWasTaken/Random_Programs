@@ -1,0 +1,8 @@
+C:\Users\Vale\Documents\Visual Studio 2013\Projects\Calculator7\Calculator7\bin\Release\Calculator7.exe.config
+C:\Users\Vale\Documents\Visual Studio 2013\Projects\Calculator7\Calculator7\bin\Release\Calculator7.exe
+C:\Users\Vale\Documents\Visual Studio 2013\Projects\Calculator7\Calculator7\bin\Release\Calculator7.pdb
+C:\Users\Vale\Documents\Visual Studio 2013\Projects\Calculator7\Calculator7\obj\Release\Calculator7.Form1.resources
+C:\Users\Vale\Documents\Visual Studio 2013\Projects\Calculator7\Calculator7\obj\Release\Calculator7.Properties.Resources.resources
+C:\Users\Vale\Documents\Visual Studio 2013\Projects\Calculator7\Calculator7\obj\Release\Calculator7.csproj.GenerateResource.Cache
+C:\Users\Vale\Documents\Visual Studio 2013\Projects\Calculator7\Calculator7\obj\Release\Calculator7.exe
+C:\Users\Vale\Documents\Visual Studio 2013\Projects\Calculator7\Calculator7\obj\Release\Calculator7.pdb
