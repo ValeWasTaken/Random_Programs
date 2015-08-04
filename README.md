@@ -29,6 +29,7 @@ A collection of random programs I've made in various languages that weren't wort
   - Code_Fights
     - Shortest_Solution_Challenge
       - box_drawing.py 
+      - fibonacci_sequence.py
   - GUI_Programs
     - Brawl_Bot.py
     - ConversionCalc.py
