@@ -26,6 +26,9 @@ A collection of random programs I've made in various languages that weren't wort
     - Pig_Latin.py
     - Reverse_String.py
 - Python_Programs
+  - Code_Fights
+    - Shortest_Solution_Challenge
+      - box_drawing.py 
   - GUI_Programs
     - Brawl_Bot.py
     - ConversionCalc.py
