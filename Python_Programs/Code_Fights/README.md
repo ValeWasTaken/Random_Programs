@@ -6,3 +6,4 @@ Code Fights is a repository dedicated to my programming on the website: https://
   - box_drawing.py
   - fibonacci_sequence.py
   - merge_arrays.py
+  - sum_of_multiples_3_or_5.py
