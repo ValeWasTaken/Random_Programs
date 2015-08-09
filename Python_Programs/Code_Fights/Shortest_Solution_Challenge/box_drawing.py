@@ -16,14 +16,14 @@ Characters used in solution: 110
 '''
 
 def box(n):
-    a=''
-    s='*'
-    b=n-2
-    if n<2:
-        return{0:a,1:s}[n]
+    a = ''
+    s = '*'
+    b = n-2
+    if n < 2:
+        return {0:a,1:s}[n]
     else:
-        a+=s*n+'\n'
+        a += s*n + '\n'
         for x in range(b):
-            a+=s+(b*' ')+s+'\n'
-        a+=s*n
+            a += s + (b * ' ') + s +'\n'
+        a += s * n
     return a
