@@ -15,8 +15,8 @@ Characters used in solution: 59
 '''
 
 def Fib(N):
-    a=0
-    b=1
+    a = 0
+    b = 1
     for x in range(N-1):
-        a,b=b,a+b
-    return a%(10**9+7)
+        a, b = b, a+b
+    return a % (10**9+7)
