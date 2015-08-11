@@ -32,6 +32,7 @@ A collection of random programs I've made in various languages that weren't wort
       - fibonacci_sequence.py
       - merge_arrays.py
       - sum_of_multiples_3_or_5.py
+      - dice_probability.py
   - GUI_Programs
     - Brawl_Bot.py
     - ConversionCalc.py
