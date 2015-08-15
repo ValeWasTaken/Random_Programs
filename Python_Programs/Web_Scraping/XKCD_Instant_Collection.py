@@ -19,11 +19,11 @@ def scrapeXKCD():
             try:
                 soup = BeautifulSoup(urllib.urlopen('http://xkcd.com/%s/' % comic).read())
                 title = soup.find("div", id="comic").img['alt']
-                title = ''.join(char for char in title if char.isalnum() or char == ' ') # Gets rid of special characters for filename
+                title = ''.join(char for char in title if char.isalnum() or char == ' ')
                 image = "http:"+str(soup.find("div", id="comic").img['src'])
                 while len(str(comic)) < len(str(newestComicNumber)):
                     comic = '0'+str(comic) # So that "1" becomes "0001" meaning your files don't go "1,10,11,..,2,20,.."
-                fileName = "XKCD_" + str(comic) + "_" + title + ".jpg"
+                fileName = "XKCD_{0}_{1}.jpg".format(comic, title)
                 urllib.urlretrieve(image,fileName)
             except TypeError:
                 pass # Some comics like #1350 and #1416 are not pictures and are interactable.
