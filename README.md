@@ -30,6 +30,7 @@ A collection of random programs I've made in various languages that weren't wort
     - Shortest_Solution_Challenge
       - box_drawing.py 
       - fibonacci_sequence.py
+      - find_the_difference.py
       - merge_arrays.py
       - sum_of_multiples_3_or_5.py
       - dice_probability.py
