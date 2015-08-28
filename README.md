@@ -5,7 +5,7 @@ A collection of random programs I've made in various languages that weren't wort
 
 <h2> Table of Contents </h2>
 - C#_Programs
-  - Calculator7
+  - Calculator7 (Project - Many files)
 - C++_Programs
   - Find_Primes_Under_X.cpp 
 - Java
