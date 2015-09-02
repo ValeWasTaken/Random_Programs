@@ -4,6 +4,7 @@ Code Fights is a repository dedicated to my programming on the website: https://
 <h4> Table of Contents </h4>
 - Shortest Solution Challenge (Users who solve the challenge using the least amount of characters win.)
   - box_drawing.py
+  - chocolates.py
   - fibonacci_sequence.py
   - find_the_difference.py
   - merge_arrays.py
