@@ -29,6 +29,7 @@ A collection of random programs I've made in various languages that weren't wort
   - Code_Fights
     - Shortest_Solution_Challenge
       - box_drawing.py 
+      - chocolates.py
       - fibonacci_sequence.py
       - find_the_difference.py
       - merge_arrays.py
