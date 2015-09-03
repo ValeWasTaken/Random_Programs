@@ -2,7 +2,8 @@ import praw
 import time
 
 r = praw.Reddit(user_agent = "Basic Reply Bot for learning PRAW.")
-r.login("UsernameHere","PasswordHere")
+username, password = [line.rstrip('\n') for line in open('user_info.txt')]
+r.login(username, password)
 words_to_match = ['apple pie','pumpkin pie', 'cherry pie']
 
 def run_bot():
@@ -33,4 +34,4 @@ def run_bot():
 
 while True:
     run_bot()
-    time.sleep(10)
+    time.sleep(1200)
