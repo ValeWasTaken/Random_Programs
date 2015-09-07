@@ -30,12 +30,13 @@ A collection of random programs I've made in various languages that weren't wort
     - Shortest_Solution_Challenge
       - box_drawing.py 
       - chocolates.py
+      - dice_probability.py
       - fibonacci_sequence.py
       - find_the_difference.py
       - merge_arrays.py
       - sum_groups.py
       - sum_of_multiples_3_or_5.py
-      - dice_probability.py
+      - virus_scan.py
   - GUI_Programs
     - Brawl_Bot.py
     - ConversionCalc.py
