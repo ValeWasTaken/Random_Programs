@@ -52,6 +52,7 @@ A collection of random programs I've made in various languages that weren't wort
     - RedditNameFinder.py
     - Web_Application_Checker.py
     - XKCD_Instant_Collection.py
+    - list_values.py
     - shippingTracker.py
     - starcraft2_GDforum_average_postCount.py
   - WorkExperienceCalc
