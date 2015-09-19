@@ -9,6 +9,7 @@ Code Fights is a repository dedicated to my programming on the website: https://
   - fibonacci_sequence.py
   - find_the_difference.py
   - merge_arrays.py
+  - same_encryption.py
   - sum_groups.py
   - sum_of_multiples_3_or_5.py
   - virus_scan.py
