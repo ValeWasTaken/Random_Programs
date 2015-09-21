@@ -34,6 +34,7 @@ A collection of random programs I've made in various languages that weren't wort
       - dice_probability.py
       - fibonacci_sequence.py
       - find_the_difference.py
+      - majority_element.py
       - merge_arrays.py
       - same_encyrption.py
       - sum_groups.py
