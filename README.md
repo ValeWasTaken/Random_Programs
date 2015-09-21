@@ -28,6 +28,7 @@ A collection of random programs I've made in various languages that weren't wort
 - Python_Programs
   - Code_Fights
     - Shortest_Solution_Challenge
+      - bear_pyramid.py 
       - box_drawing.py 
       - chocolates.py
       - dice_probability.py
