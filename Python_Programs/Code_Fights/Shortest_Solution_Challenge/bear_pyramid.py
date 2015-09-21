@@ -11,9 +11,11 @@ Example:
   >> * * * + 3
   >> Height = 10
 Solve with as few characters as possible.
-Characters used in solution: 71
+Characters used in solution: 85
 '''
 def bear_pyramid(N):
+    if N <= 0:
+        return 0
     c = m = 0
     h = 1
     for x in range(N+1):
@@ -23,4 +25,3 @@ def bear_pyramid(N):
             h += 3
         c += 1
     return h
-print(bear_pyramid(7))
