@@ -1,3 +1,4 @@
+# Python 2.7
 import urllib
 from bs4 import BeautifulSoup
 import time
