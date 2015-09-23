@@ -1,5 +1,5 @@
 # Note: This program no longer works due to the 2014 Steam Summer Sale being finished.
-
+# Python 2.7
 import urllib
 from bs4 import BeautifulSoup
 import time
