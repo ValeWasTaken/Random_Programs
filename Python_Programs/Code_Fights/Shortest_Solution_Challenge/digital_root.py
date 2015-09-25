@@ -10,9 +10,9 @@ Example:
   >> 2 + 7 = 9
   >> 9
 Solve with as few characters as possible.
-Characters used in solution: 75
+Characters used in solution: 70
 '''
 def digitalroot(n):
-    while len(str(n)) > 1:
+    while int(n) > 9:
         n = sum([int(x) for x in str(n)[::]])
     return n
