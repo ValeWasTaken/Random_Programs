@@ -7,6 +7,7 @@ Code Fights is a repository dedicated to my programming on the website: https://
   - box_drawing.py
   - chocolates.py
   - dice_probability.py
+  - digital_root.py
   - fibonacci_sequence.py
   - find_the_difference.py
   - majority_element.py
