@@ -3,17 +3,17 @@ Code Fights is a repository dedicated to my programming on the website: https://
 
 <h4> Table of Contents </h4>
 - Shortest Solution Challenge (Users who solve the challenge using the least amount of characters win.)
-  - bear_pyramid.py
-  - box_drawing.py
-  - chocolates.py
-  - dice_probability.py
-  - digital_root.py
-  - fibonacci_sequence.py
-  - find_the_difference.py
-  - majority_element.py
-  - reverse_number.py
-  - merge_arrays.py
-  - same_encryption.py
-  - sum_groups.py
-  - sum_of_multiples_3_or_5.py
-  - virus_scan.py
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/bear_pyramid.py">bear_pyramid.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/box_drawing.py">box_drawing.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/chocolates.py">chocolates.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/dice_probability.py">dice_probability.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/digital_root.py">digital_root.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/fibonacci_sequence.py">fibonacci_sequence.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/find_the_difference.py">find_the_difference.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/majority_element.py">majority_element.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/merge_arrays.py">merge_arrays.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/reverse_number.py">reverse_number.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/same_encryption.py">same_encryption.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_groups.py">sum_groups.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_of_multiples_3_or_5.py">sum_of_multiples_3_or_5.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/virus_scan.py">virus_scan.py</a>
