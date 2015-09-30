@@ -37,6 +37,7 @@ A collection of random programs I've made in various languages that weren't wort
       - find_the_difference.py
       - majority_element.py
       - merge_arrays.py
+      - pig_latin.py
       - reverse_number.py
       - same_encyrption.py
       - sum_groups.py
