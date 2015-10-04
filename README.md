@@ -31,6 +31,7 @@ A collection of random programs I've made in various languages that weren't wort
       - bear_pyramid.py 
       - box_drawing.py 
       - chocolates.py
+      - counting_digits.py
       - dice_probability.py
       - digital_root.py
       - fibonacci_sequence.py
