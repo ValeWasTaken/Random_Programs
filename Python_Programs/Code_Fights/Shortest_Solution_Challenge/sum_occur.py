@@ -8,6 +8,6 @@ Example:
   >> (2*3) + (4*2) + (5*1)
   >>  19
 Solve with as few characters as possible.
-Characters used in solution: 23
+Characters used in solution: 12
 '''
-sumOccur = lambda A: sum(A)
+sumOccur = sum
