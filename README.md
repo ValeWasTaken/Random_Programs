@@ -42,6 +42,7 @@ A collection of random programs I've made in various languages that weren't wort
       - reverse_number.py
       - same_encyrption.py
       - sum_groups.py
+      - sum_occur.py
       - sum_of_multiples_3_or_5.py
       - virus_scan.py
   - GUI_Programs
