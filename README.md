@@ -45,6 +45,7 @@ A collection of random programs I've made in various languages that weren't wort
       - sum_occur.py
       - sum_of_multiples_3_or_5.py
       - virus_scan.py
+      - well_ordered_number.py
   - GUI_Programs
     - Brawl_Bot.py
     - ConversionCalc.py
