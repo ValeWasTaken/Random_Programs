@@ -10,11 +10,7 @@ Example:
   >> 8
   >>   -> '123456787654321'
 Solve with as few characters as possible.
-Characters used in solution: 76
+Characters used in solution: 69
 '''
 
-def Palindromic_Number(N):
-    a = ''
-    for x in range(1,N+1):
-        a += str(x)
-    return a + a[::-1][1:]
+Palindromic_Number = lambda N: ''.join(map(str, range(1,N) + range(N,0,-1)))
