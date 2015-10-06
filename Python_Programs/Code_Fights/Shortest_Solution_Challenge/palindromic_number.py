@@ -1,5 +1,5 @@
 '''
-Palindromic_Number challenge in Python 3.4
+Palindromic_Number challenge in Python 2.7
 Required code: 
       def Palindromic_Number(N):
 Goal: Given a number, return the numbers leading up to it as a palindrome.
