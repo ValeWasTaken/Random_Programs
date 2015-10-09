@@ -7,7 +7,6 @@ Example:
   >> Input: [[1,2][1,2],3]
   >> Output: 2
 Solve with as few characters as possible.
-Characters used in solution: 66
+Characters used in solution: 58
 '''
-def diceProbability(d1, d2, N):
-    return len([x for x in d1 for y in d2 if x+y==N])
+diceProbability = lambda a,b,N: len([x for x in a for y in b if x+y==N])
