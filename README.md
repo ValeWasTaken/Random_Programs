@@ -4,16 +4,16 @@ Random_Programs
 A collection of random programs I've made in various languages that weren't worth their own repository.
 
 <h2> Table of Contents </h2>
-- C#_Programs
-  - Calculator7 (Project - Many files)
-- C++_Programs
+- <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%23_Programs/">C#_Programs</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%23_Programs/Calculator7">Calculator7</a> (Project - Many files)
+- <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%2B%2B_Programs">C++_Programs</a>
   - Find_Primes_Under_X.cpp 
-- Java
+- <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Java">Java</a>
   - BMI_Calculator.java
   - beerSong.java
-- MatLab
+- <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/MatLab">MatLab</a>
   - Virus_Simulation.m 
-- Mega_Project_List_Solutions
+- <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Mega_Project_List_Solutions">Mega_Project_List_Solutions</a>
   - Numbers
     - Coin_Flip.py
     - Fibonacci_Sequence.cpp
@@ -25,7 +25,7 @@ A collection of random programs I've made in various languages that weren't wort
     - PalindromeChecker.py
     - Pig_Latin.py
     - Reverse_String.py
-- Python_Programs
+- <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs">Python_Programs</a>
   - Code_Fights
     - Shortest_Solution_Challenge
       - bear_pyramid.py 
@@ -71,5 +71,5 @@ A collection of random programs I've made in various languages that weren't wort
     - dates.txt
     - tasks.txt
     - workExperienceCalc.py
-- Shell
+- <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Shell">Shell</a>
   - StegoFortune.sh 
