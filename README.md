@@ -28,27 +28,28 @@ A collection of random programs I've made in various languages that weren't wort
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs">Python_Programs</a>
   - Code_Fights
     - Shortest_Solution_Challenge
-      - bear_pyramid.py 
-      - box_drawing.py 
-      - chocolates.py
-      - counting_digits.py
-      - dice_probability.py
-      - digital_root.py
-      - fibonacci_sequence.py
-      - find_and_replace.py
-      - find_the_difference.py
-      - majority_element.py
-      - merge_arrays.py
-      - palindromic_number.py
-      - pig_latin.py
-      - reverse_number.py
-      - same_encyrption.py
-      - sum_groups.py
-      - sum_occur.py
-      - sum_of_multiples_3_or_5.py
-      - triangular_numbers.py
-      - virus_scan.py
-      - well_ordered_number.py
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/bear_pyramid.py">bear_pyramid.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/box_drawing.py">box_drawing.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/chocolates.py">chocolates.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/counting_digits.py">counting_digits.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/dice_probability.py">dice_probability.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/digital_root.py">digital_root.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/fibonacci_sequence.py">fibonacci_sequence.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/find_and_replace.py">find_and_replace.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/find_the_difference.py">find_the_difference.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/majority_element.py">majority_element.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/merge_arrays.py">merge_arrays.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/palindromic_number.py">palindromic_number.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/pig_latin.py">pig_latin.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/reverse_number.py">reverse_number.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/same_encryption.py">same_encryption.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_groups.py">sum_groups.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_occur.py">sum_occur.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_of_multiples_3_or_5.py">sum_of_multiples_3_or_5.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/triangular_numbers.py">triangular_numbers.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/virus_scan.py">virus_scan.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/well_ordered_number.py">well_ordered_number.py</a>
+
   - GUI_Programs
     - Brawl_Bot.py
     - ConversionCalc.py
