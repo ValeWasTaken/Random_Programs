@@ -7,27 +7,27 @@ A collection of random programs I've made in various languages that weren't wort
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%23_Programs/">C#_Programs</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%23_Programs/Calculator7">Calculator7</a> (Project - Many files)
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%2B%2B_Programs">C++_Programs</a>
-  - Find_Primes_Under_X.cpp 
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/C%2B%2B_Programs/Find_Primes_Under_X.cpp">Find_Primes_Under_X.cpp</a>
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Java">Java</a>
-  - BMI_Calculator.java
-  - beerSong.java
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Java/BMI_Calculator.java">BMI_Calculator.java</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Java/beerSong.java">beerSong.java</a>
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/MatLab">MatLab</a>
-  - Virus_Simulation.m 
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/MatLab/Virus_Simulation.m">Virus_Simulation.m</a> 
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Mega_Project_List_Solutions">Mega_Project_List_Solutions</a>
-  - Numbers
-    - Coin_Flip.py
-    - Fibonacci_Sequence.cpp
-    - Fibonacci_Sequence.py
-    - Tax_Calc.cpp
-    - Tax_Calc.py
-  - Text
-    - FizzBuzz.py
-    - PalindromeChecker.py
-    - Pig_Latin.py
-    - Reverse_String.py
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Mega_Project_List_Solutions/Numbers">Numbers</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Coin_Flip.py">Coin_Flip.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Fibonacci_Sequence.cpp">Fibonacci_Sequence.cpp</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Fibonacci_Sequence.py">Fibonacci_Sequence.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Tax_Calc.cpp">Tax_Calc.cpp</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Tax_Calc.py">Tax_Calc.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Mega_Project_List_Solutions/Text">Text</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/FizzBuzz.py">FizzBuzz.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/PalindromeChecker.py">PalindromeChecker.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/Pig_Latin.py">Pig_Latin.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/Pig_Latin.py">Reverse_String.py</a>
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs">Python_Programs</a>
-  - Code_Fights
-    - Shortest_Solution_Challenge
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/Code_Fights">Code_Fights</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge">Shortest_Solution_Challenge</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/bear_pyramid.py">bear_pyramid.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/box_drawing.py">box_drawing.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/chocolates.py">chocolates.py</a>
@@ -74,4 +74,4 @@ A collection of random programs I've made in various languages that weren't wort
     - tasks.txt
     - workExperienceCalc.py
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Shell">Shell</a>
-  - StegoFortune.sh 
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Shell/StegoFortune.sh">StegoFortune.sh</a> 
