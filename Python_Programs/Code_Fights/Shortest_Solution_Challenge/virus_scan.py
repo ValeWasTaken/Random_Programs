@@ -4,7 +4,7 @@ Required code:
       def virusScan(input):
 Goal: Detect if the string 'virus' is contained within the given string, regardless of letter case.
 Example:
-  >> 'thisIsAviRuS
+  >> 'thisIsAviRuS'
   >> True
 Solve with as few characters as possible.
 Characters used in solution: 36
