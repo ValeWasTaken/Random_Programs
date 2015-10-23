@@ -52,27 +52,28 @@ A collection of random programs I've made in various languages that weren't wort
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/virus_scan.py">virus_scan.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/well_ordered_number.py">well_ordered_number.py</a>
 
-  - GUI_Programs
-    - Brawl_Bot.py
-    - ConversionCalc.py
-    - Defend_Your_Castle.py
-    - WoW_Gold_Farming_Bot.py
-  - Kivy
-    - Android
-      - Hello_World.py
-  - PyMoney
-    - PyMoney.py
-    - pyMoneyLogs.txt
-  - Web_Scraping
-    - RedditNameFinder.py
-    - Web_Application_Checker.py
-    - XKCD_Instant_Collection.py
-    - list_values.py
-    - shippingTracker.py
-    - starcraft2_GDforum_average_postCount.py
-  - WorkExperienceCalc
-    - dates.txt
-    - tasks.txt
-    - workExperienceCalc.py
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/GUI_Programs">GUI_Programs</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/GUI_Programs/Brawl_Bot.py">Brawl_Bot.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/GUI_Programs/ConversionCalc.py">ConversionCalc.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/GUI_Programs/Defend_Your_Castle.py">Defend_Your_Castle.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/GUI_Programs/WoW_Gold_Farming_Bot.py">WoW_Gold_Farming_Bot.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/Kivy/Android">Kivy</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/Kivy/Android">Android</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Kivy/Android/Hello_World.py">Hello_World.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/PyMoney">PyMoney</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/PyMoney/PyMoney.py">PyMoney.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/PyMoney/pyMoneyLogs.txt">pyMoneyLogs.txt</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/Web_Scraping">Web_Scraping</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/RedditNameFinder.py">RedditNameFinder.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/Web_Application_Checker.py">Web_Application_Checker.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/XKCD_Instant_Collection.py">XKCD_Instant_Collection.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/list_values.py">list_values.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/shippingTracker.py">shippingTracker.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/starcraft2_GDforum_average_postCount.py">starcraft2_GDforum_average_postCount.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/steamScoreTracker.py">steamScoreTracker.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/workExperienceCalc">WorkExperienceCalc</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/workExperienceCalc/dates.txt">dates.txt</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/workExperienceCalc/tasks.txt">tasks.txt</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/workExperienceCalc/workExperienceCalc.py">workExperienceCalc.py</a>
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Shell">Shell</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Shell/StegoFortune.sh">StegoFortune.sh</a> 
