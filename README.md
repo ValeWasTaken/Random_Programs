@@ -45,6 +45,7 @@ A collection of random programs I've made in various languages that weren't wort
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/pig_latin.py">pig_latin.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/reverse_number.py">reverse_number.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/same_encryption.py">same_encryption.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/smallest_negative.py">smallest_negative.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_groups.py">sum_groups.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_occur.py">sum_occur.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_of_multiples_3_or_5.py">sum_of_multiples_3_or_5.py</a>
