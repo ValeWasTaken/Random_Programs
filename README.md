@@ -72,6 +72,7 @@ A collection of random programs I've made in various languages that weren't wort
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/Web_Application_Checker.py">Web_Application_Checker.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/XKCD_Instant_Collection.py">XKCD_Instant_Collection.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/list_values.py">list_values.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/manga_scraper.py">manga_scraper.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/shippingTracker.py">shippingTracker.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/starcraft2_GDforum_average_postCount.py">starcraft2_GDforum_average_postCount.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Web_Scraping/steamScoreTracker.py">steamScoreTracker.py</a>
