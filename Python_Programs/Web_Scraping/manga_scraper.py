@@ -17,7 +17,7 @@ import pyautogui
 import time
 
 def scrape_manga():
-    count = 1036
+    count = 1
     while pyautogui.pixelMatchesColor(947, 550, (239, 239, 239)) == False:
         pyautogui.moveTo(947, 550)
         pyautogui.rightClick()
