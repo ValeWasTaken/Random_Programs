@@ -3,11 +3,17 @@ MangaTown Scraper -- Python 3.4
 Scrapes entire collections of manga saved as png files.
 
 How to use:
-Step 0: Full-screen your browser on a 1920x1080 resolution monitor.
+
+Prep work:
+Step 1: Full-screen your browser on a 1920x1080 resolution monitor.
+Step 2: Take a screenshot of the "Save Image As.."
+Step 3: Name screenshot "SaveImageAs.png" and move it to the same folder as your program.
+
+How to use:
 Step 1: Find desired manga and go to the first page of the first chapter
     Example for "One-Punch Man" : http://www.mangatown.com/manga/onepunch_man/c001/
 Step 2: Right-click the first manga picture and click "Save as.."
-Step 3: Select the folder you want to download the manga to
+Step 3: Select the folder you want to download the manga and click save
 Step 4: Run the program and wait until it is finished.
 
 Note:
@@ -24,6 +30,7 @@ def scrape_manga():
         pyautogui.moveTo(947, 550) # Move to manga page
         pyautogui.rightClick() # Right click to find "Save Image As.."
         time.sleep(0.1) # Wait 0.1 seconds for the menu containing "Save .."
+        # Locate the coordinates for "Save Image As.." using a screenshot of the option.
         save = pyautogui.locateOnScreen('SaveImageAs.png')
         x, y = [int(x) for x in str(save).replace(',','').replace('(','').split()[:2]]
         pyautogui.moveTo(x, y) # Move to where "Save Image As.." is located.
@@ -33,7 +40,7 @@ def scrape_manga():
         # Rename file to be "Page_00001"
         pyautogui.typewrite('Page_' + '0'*(5-len(s_c)) + s_c)
         count += 1
-        for x in range(5):
+        for x in range(10):
             pyautogui.press('enter') # Spam enter so it registers.
         pyautogui.click()
         time.sleep(1.5) # Sleep while next manga page loads.
