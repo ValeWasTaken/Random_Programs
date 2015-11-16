@@ -3,18 +3,16 @@ MangaTown Scraper -- Python 3.4
 Scrapes entire collections of manga saved as png files.
 
 How to use:
-
-Prep work:
-Step 1: Full-screen your browser on a 1920x1080 resolution monitor.
-Step 2: Take a screenshot of the "Save Image As.."
-Step 3: Name screenshot "SaveImageAs.png" and move it to the same folder as your program.
-
-How to use:
-Step 1: Find desired manga and go to the first page of the first chapter
+Step 1: Install Python 3.4 and Pip
+Step 2: Install the pyautogui library through pip
+Step 3: Full-screen your browser on a 1920x1080 resolution monitor.
+Step 4: Take a screenshot of the "Save Image As.."
+Step 5: Name screenshot "SaveImageAs.png" and move it to the same folder as your program.
+Step 6: Find desired manga and go to the first page of the first chapter
     Example for "One-Punch Man" : http://www.mangatown.com/manga/onepunch_man/c001/
-Step 2: Right-click the first manga picture and click "Save as.."
-Step 3: Select the folder you want to download the manga and click save
-Step 4: Run the program and wait until it is finished.
+Step 7: Right-click the first manga picture and click "Save as.."
+Step 8: Select the folder you want to download the manga and click save
+Step 9: Run the program and wait until it is finished.
 
 Note:
     Depending on your internet speed you may want to increase or decrease
