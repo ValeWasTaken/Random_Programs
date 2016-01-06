@@ -10,8 +10,9 @@ Example:
   >>   "// This is my comment //", 
   >>   "////////////////////////"]
 Solve with as few characters as possible.
-Characters used in solution: 62
+Characters used in solution: 57
 '''
 def DecorateComment(c):
-    e = [(6+len(c)) * '/']
-    return e+['// %s //' % c]+e
+    a="// %s //"%c
+    b="/"*len(a)
+    return b,a,b
