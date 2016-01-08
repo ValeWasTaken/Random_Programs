@@ -71,6 +71,15 @@ A collection of random programs I've made in various languages that weren't wort
   - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/Kivy/Android">Kivy</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/Kivy/Android">Android</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Kivy/Android/Hello_World.py">Hello_World.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/Misc">Misc</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/BasicReplyRedditBot.py">BasicReplyRedditBot.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/Basic_PRAW_Example.py">Basic_PRAW_Example.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/BlackBox_Area%26Volume.py">BlackBox_Area&Volume.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/Idiomatic_Python2.7_References.py">Idiomatic_Python2.7_References.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/OreoMeasure.py">OreoMeasure.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/Python_RNG_Test.py">Python_RNG_Test.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/Time_Tracker.py">Time_Tracker.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/file_search_and_move.py">file_search_and_move.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Python_Programs/PyMoney">PyMoney</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/PyMoney/PyMoney.py">PyMoney.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/PyMoney/pyMoneyLogs.txt">pyMoneyLogs.txt</a>
