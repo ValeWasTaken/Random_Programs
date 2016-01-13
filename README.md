@@ -41,6 +41,7 @@ A collection of random programs I've made in various languages that weren't wort
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/find_and_replace.py">find_and_replace.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/find_the_difference.py">find_the_difference.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/happy_new_year.py">happy_new_year.py</a>
+      - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/hexadecimal.py">hexadecimal.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/integer_average.py">integer_average.py</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/is_bin_symmetry.py">is_bin_symmetry</a>
       - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/last_power.py">last_power.py</a>
