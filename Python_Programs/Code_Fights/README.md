@@ -1,6 +1,8 @@
 <h2> Code Fights </h2>
 Code Fights is a repository dedicated to my programming on the website: https://codefights.com/
 
+Note: All Python solutions were written in Python 3.4 but should all be compatible with Python 2.7.
+
 <h4> Table of Contents </h4>
 - Shortest Solution Challenge (Users who solve the challenge using the least amount of characters win.)
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/bear_pyramid.py">bear_pyramid.py</a>
