@@ -29,6 +29,7 @@ Note: All Python solutions were written in Python 3.4 but should all be compatib
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/palindromic_number.py">palindromic_number.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/permutations_sum.py">permutations_sum</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/pig_latin.py">pig_latin.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/press_button.py">press_button.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/reverse_number.py">reverse_number.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/same_encryption.py">same_encryption.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/smallest_negative.py">smallest_negative.py</a>
