@@ -9,7 +9,6 @@ Example:
   >> PressButton(0, "0") = 0
   >> PressButton(1, "10") = 1
 Solve with as few characters as possible.
-Characters used in solution: 52
+Characters used in solution: 32
 '''
-
-PressButton = lambda s, n: s if int(n) % 2 == 0 else 0 if s == 1 else 1
+PressButton = lambda s, n: s ^ int(n) % 2
