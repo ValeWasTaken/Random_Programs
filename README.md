@@ -1,7 +1,7 @@
 Random_Programs
 ===============
 
-A collection of random programs I've made in various languages that weren't worth their own repository.
+A collection of random programs I've made in various languages.
 
 <h2> Table of Contents </h2>
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%23_Programs/">C#_Programs</a>
