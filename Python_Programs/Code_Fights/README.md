@@ -5,6 +5,7 @@ Note: All Python solutions were written in Python 3.4 but should all be compatib
 
 <h4> Table of Contents </h4>
 - Shortest Solution Challenge (Users who solve the challenge using the least amount of characters win.)
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/aofive.py">aofive.py</a> 
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/bear_pyramid.py">bear_pyramid.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/box_drawing.py">box_drawing.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/chocolates.py">chocolates.py</a>
