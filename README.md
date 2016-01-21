@@ -4,6 +4,8 @@ Random_Programs
 A collection of random programs I've made in various languages.
 
 <h2> Table of Contents </h2>
+- <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/Batch">Batch</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Batch/Monopoly.bat">Monopoly.bat</a> 
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%23_Programs/">C#_Programs</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%23_Programs/Calculator7">Calculator7</a> (Project - Many files)
 - <a href="https://github.com/ArnoldM904/Random_Programs/tree/master/C%2B%2B_Programs">C++_Programs</a>
