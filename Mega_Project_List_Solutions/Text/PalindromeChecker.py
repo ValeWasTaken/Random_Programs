@@ -1,1 +1,1 @@
-if all(x == x[::-1] for x in input()): print ("Is palindrome!")
+is_palindrome = lambda string: string == string[::-1] # Returns true if palindrome, else false.
