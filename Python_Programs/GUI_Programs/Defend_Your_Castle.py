@@ -11,6 +11,10 @@ I wouldn't pay too much attention to it.
 
 import pyautogui
 
+def click(amount):
+    for x in range(amount):
+        pyautogui.click()
+
 for game in range(100):
     for x in range(15):
         person_height = 750 
@@ -29,22 +33,15 @@ for game in range(100):
 
     # Repair
     pyautogui.moveTo(900, 500)
-    pyautogui.click()
-    pyautogui.click()
-    pyautogui.click()
-    pyautogui.click()
+    click(4)
 
     # Fortify walls
     pyautogui.moveTo(900, 600)
-    pyautogui.click()
-    pyautogui.click()
-    pyautogui.click()
-    pyautogui.click()
+    click(4)
 
     # Buy archers
     pyautogui.moveTo(1100, 520)
-    pyautogui.click()
-    pyautogui.click()
+    click(2)
 
     # Hit "OK"
     pyautogui.moveTo(1260, 780)
