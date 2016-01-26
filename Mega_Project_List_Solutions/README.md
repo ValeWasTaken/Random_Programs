@@ -4,13 +4,13 @@ List of projects completed and uploaded to this folder:
 
 
 <h2>CATEGORY -- Numbers:</h2>
-- Tax Calculator [Completed in C++ & Python]
-- Fibonacci Sequence [Completed in C++ & Python]
-- Reverse String [Completed in Python]
-- Coin Flip Simulation [Completed in Python]
+- Alarm Clock [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Alarm_Clock.py">Python</a>]
+- Coin Flip Simulation [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Coin_Flip.py">Python</a>]
+- Fibonacci Sequence [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Fibonacci_Sequence.cpp">C++</a> & <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Fibonacci_Sequence.py">Python</a>]
+- Tax Calculator [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Tax_Calc.cpp">C++</a> & <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Tax_Calc.py">Python</a>]
 
 <h2>CATEGORY -- Text:</h2>
-- Reverse String [Completed in Python]
-- Fizz Buzz [Completed in Python]
-- Palindrome Checker [Completed in Python]
-- Pig Latin [Completed in Python]
+- Fizz Buzz [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/FizzBuzz.py">Python</a>]
+- Palindrome Checker [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/PalindromeChecker.py">Python</a>]
+- Pig Latin [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/Pig_Latin.py">Python</a>]
+- Reverse String [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/Reverse_String.py">Python</a>]
