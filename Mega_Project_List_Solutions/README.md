@@ -14,3 +14,4 @@ List of projects completed and uploaded to this folder:
 - Palindrome Checker [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/PalindromeChecker.py">Python</a>]
 - Pig Latin [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/Pig_Latin.py">Python</a>]
 - Reverse String [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/Reverse_String.py">Python</a>]
+- Count Vowels [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/Count_Vowels.py">Python</a>]
