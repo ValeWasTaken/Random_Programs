@@ -1,15 +1,12 @@
 # Python 3.4
 import random
 
-def coin_flip():
-    heads, tails, count = 0, 0, 0
-    flips = int(input("Number of flips: "))
-    while(count < flips):
-        result = random.randint(0,1)
-        if result == 0:
+def flip_coin(flips):
+    heads = tails = 0
+    for flip in range(flips):
+        if random.randint(0,1) == 0:
             heads += 1
         else:
             tails += 1
-        count += 1
-    print("Results: {0} landed on heads. {1} landed on tails.".format(heads, tails))
-coin_flip()
+    print("{0} coins landed on heads. {1} landed on tails.".format(heads, tails))
+flip_coin(1000)
