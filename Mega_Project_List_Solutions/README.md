@@ -2,6 +2,8 @@ Link to list of projects - https://github.com/karan/Projects
 
 List of projects completed and uploaded to this folder:
 
+<h2>CATEGORY -- Clasic Algorithms:</h2>
+- Sieve of Eratosthenes [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Classic_Algorithms/Sieve_of_Eratosthenes.py">Python</a>]
 
 <h2>CATEGORY -- Numbers:</h2>
 - Alarm Clock [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Alarm_Clock.py">Python</a>]
