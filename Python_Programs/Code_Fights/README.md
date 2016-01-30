@@ -11,6 +11,7 @@ Note: All Python solutions were written in Python 3.4 but should all be compatib
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/chocolates.py">chocolates.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/count_digits.py">count_digits.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/counting_digits.py">counting_digits.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/count_sub.py">count_sub.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/decorate_comment.py">decorate_comment.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/dice_probability.py">dice_probability.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/digital_root.py">digital_root.py</a>
