@@ -20,6 +20,7 @@ Note: All Python solutions were written in Python 3.4 but should all be compatib
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/fibonacci_sequence.py">fibonacci_sequence.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/find_and_replace.py">find_and_replace.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/find_the_difference.py">find_the_difference.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/find_the_single_value.py">find_the_single_value.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/happy_new_year.py">happy_new_year.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/hexadecimal.py">hexadecimal.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/integer_average.py">integer_average.py</a>
