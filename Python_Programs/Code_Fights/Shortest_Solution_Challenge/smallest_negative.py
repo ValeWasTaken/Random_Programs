@@ -11,3 +11,5 @@ Example:
 Solve with as few characters as possible.
 Characters used in solution: 61
 '''
+
+smallestNegative = lambda A: str(min(A)) if min(A) < 0 else 'NOT_FOUND'
