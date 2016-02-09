@@ -7,13 +7,13 @@ Example:
   >> Encryption("Ab", 1) = "Bc"
   >> Encryption("z", 2) = "b"
 Solve with as few characters as possible.
-Characters used in solution: 120 : Work-in-progress
+Characters used in solution: 116
 '''
 
 def Encryption(m, k):
     e = []
     a = []
-    for c in m[::]:
+    for c in m:
         e.append(ord(c))
     for x in e:
         x = int(x)
