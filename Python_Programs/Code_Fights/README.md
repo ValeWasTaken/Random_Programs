@@ -42,6 +42,7 @@ Note: All Python solutions were written in Python 3.4 but should all be compatib
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/same_encryption.py">same_encryption.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/smallest_integer.py">smallest_integer.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/smallest_negative.py">smallest_negative.py</a>
+  - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/stick_or_chopsticks.py">stick_or_chopsticks.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_groups.py">sum_groups.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_occur.py">sum_occur.py</a>
   - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Code_Fights/Shortest_Solution_Challenge/sum_of_consecutive_numbers.py">sum_of_consecutive_numbers.py</a>
