@@ -9,6 +9,6 @@ Example:
   >> StickOrChopsticks("stick",11) = -1
   >> StickOrChopsticks("chopstick",5) = 10
 Solve with as few characters as possible.
-Characters used in solution: 62
+Characters used in solution: 49
 '''
-StickOrChopsticks = lambda t, n: n*2 if len(t)>6 else n/2 if n%2==0 else -1
+StickOrChopsticks = lambda s, n:[n%-2|n/2,n*2][s<"d"]
