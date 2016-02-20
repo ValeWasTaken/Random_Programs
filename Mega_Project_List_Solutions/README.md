@@ -10,6 +10,7 @@ List of projects completed and uploaded to this folder:
 - Coin Flip Simulation [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Coin_Flip.py">Python</a>]
 - Fibonacci Sequence [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Fibonacci_Sequence.cpp">C++</a> & <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Fibonacci_Sequence.py">Python</a>]
 - Tax Calculator [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Tax_Calc.cpp">C++</a> & <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Tax_Calc.py">Python</a>]
+- Unit Converter [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Numbers/Unit_Converter.py">Python</a>]
 
 <h2>CATEGORY -- Text:</h2>
 - Fizz Buzz [Completed in <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Mega_Project_List_Solutions/Text/FizzBuzz.py">Python</a>]
