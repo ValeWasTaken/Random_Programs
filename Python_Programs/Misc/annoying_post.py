@@ -1,4 +1,5 @@
 # Python 3.4
+# For usage on phpBB forums.
 # Using Comic Sans font, make a post multi-colored to mess with other users. (I'm so sorry..)
 import random
 
