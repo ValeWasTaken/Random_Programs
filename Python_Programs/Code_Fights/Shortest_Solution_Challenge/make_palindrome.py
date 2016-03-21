@@ -9,6 +9,6 @@ Example:
   >> makePalindrome("xyyx") == True
   >> makePalindrome("abcde") == False
 Solve with as few characters as possible.
-Characters used in solution: 50
+Characters used in solution: 54
 '''
-makePalindrome = lambda s: all([s.count(x) == 2 for x in s])
+makePalindrome = lambda s: len({x for x in s if s.count(x)%2}) < 2
