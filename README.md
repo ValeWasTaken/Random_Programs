@@ -94,6 +94,7 @@ A collection of random programs I've made in various languages.
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/BasicReplyRedditBot.py">BasicReplyRedditBot.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/Basic_PRAW_Example.py">Basic_PRAW_Example.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/BlackBox_Area%26Volume.py">BlackBox_Area&Volume.py</a>
+    - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/count_files.py">count_files.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/Idiomatic_Python2.7_References.py">Idiomatic_Python2.7_References.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/OreoMeasure.py">OreoMeasure.py</a>
     - <a href="https://github.com/ArnoldM904/Random_Programs/blob/master/Python_Programs/Misc/Python_RNG_Test.py">Python_RNG_Test.py</a>
