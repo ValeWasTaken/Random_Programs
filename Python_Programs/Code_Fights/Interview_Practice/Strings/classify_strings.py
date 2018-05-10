@@ -12,22 +12,19 @@ is a consonant. This kind of string is categorized as mixed.
 
 Implement a function that takes a string s and 
 returns its category: good, bad, or mixed.
+
+Disclaimer: This one actually wasn't my solution. Originally I was 
+trying to do it without regex by converting characters to numbers 
+(0, 1, 2) and using if statements, but some edge cases made it 
+unreasonable. I ended up posting this solution here because I 
+understand it and am interested in referencing it in the future.
 '''
 # Python 3.6.5
-
 def classifyStrings(s):
-        chars = 'bcdfghjklmnpqrstvwxyzaeiou?'
-        numbers = '000000000000000000000111112'
-        chars_to_nums = ''.maketrans(chars, numbers)
-        translation = s.translate(chars_to_nums)
-        
-        if len(s) < 3:
-                return 'good'
-        
-        for a in range(len(s)+1):
-            value = translation[a:a+3]
-            if '2' in value:
-                return 'mixed'
-            elif value == '111' or value == '222':
-                return 'bad'
-        return 'good'
+    if re.findall('(([aeiou]{3})|[^aeiou?]{5})',s):
+        return 'bad'
+    if '?' in s:
+        a = classifyStrings(s.replace('?','a',1))
+        b = classifyStrings(s.replace('?','n',1))
+        return a if a == b else 'mixed'
+    return 'good'
